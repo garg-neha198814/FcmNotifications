@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137607782265",
+    "firebase_url": "https://fcmtest-2560d.firebaseio.com",
+    "project_id": "fcmtest-2560d",
+    "storage_bucket": "fcmtest-2560d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137607782265:android:230f133d7ab95da4",
+        "android_client_info": {
+          "package_name": "com.example.anil.fcmnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137607782265-9e8oar39q9fu1dv7bhcq7dvtag4gf1bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1ARgijDn2vU1f5RvRPfPIVT4LW18IZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
